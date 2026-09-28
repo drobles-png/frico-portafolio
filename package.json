@@ -1,0 +1,7 @@
+{
+  "name": "frico-portafolio",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000"
+  }
+}
